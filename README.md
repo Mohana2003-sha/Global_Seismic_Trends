@@ -46,3 +46,13 @@ Navigate to the project folder.
 ### Step 2: Run Streamlit app
 ```bash
 streamlit run streamlit_app/str_app.py
+## 📂 Dataset Information
+
+- Source: USGS Earthquake API
+- File name: Global_seismic_trends.csv
+- Size: ~118 MB
+- Records:537718
+ rows
+
+⚠️ Note: Due to GitHub file size limitations, the dataset is not uploaded to this repository.
+The dataset can be regenerated using the provided data ingestion pipeline.   
